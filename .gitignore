@@ -1,0 +1,66 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Next.js
+.next/
+out/
+.vercel/
+.next-standalone/
+
+# Env files
+.env
+.env.*
+!.env.example
+!.env.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Jest
+.jest-cache/
+.jest/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swm
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+
+# Local packages/tarballs
+*.tgz
+frontend-assignment-ui-1.0.0.tgz
+
+# Misc
+.cache/
+.tmp/
+temp/
+tmp/
